@@ -6,5 +6,12 @@ public class int_manipulation {
         b = 5;
         c = a % b;
         System.out.println(c);
+        System.out.println(c);
+        System.out.println(c);
+        System.out.println(c);
+        System.out.println(c);
+        System.out.println(c);
+
+
     }
 }
